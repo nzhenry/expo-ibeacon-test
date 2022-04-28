@@ -19,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nzhenry.expo.ibeacons"
     },
     "android": {
       "adaptiveIcon": {
